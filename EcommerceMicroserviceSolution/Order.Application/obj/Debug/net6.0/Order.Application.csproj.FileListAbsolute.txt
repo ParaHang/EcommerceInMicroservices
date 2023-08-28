@@ -1,0 +1,15 @@
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\bin\Debug\net6.0\Order.Application.deps.json
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\bin\Debug\net6.0\Order.Application.dll
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\bin\Debug\net6.0\Order.Application.pdb
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\bin\Debug\net6.0\Order.Domain.dll
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\bin\Debug\net6.0\Order.Domain.pdb
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\obj\Debug\net6.0\Order.Application.csproj.AssemblyReference.cache
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\obj\Debug\net6.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\obj\Debug\net6.0\Order.Application.AssemblyInfoInputs.cache
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\obj\Debug\net6.0\Order.Application.AssemblyInfo.cs
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\obj\Debug\net6.0\Order.Application.csproj.CoreCompileInputs.cache
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\obj\Debug\net6.0\Order.Application.csproj.CopyComplete
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\obj\Debug\net6.0\Order.Application.dll
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\obj\Debug\net6.0\refint\Order.Application.dll
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\obj\Debug\net6.0\Order.Application.pdb
+D:\Microservices\EcommerceMicroserviceSolution\Order.Application\obj\Debug\net6.0\ref\Order.Application.dll

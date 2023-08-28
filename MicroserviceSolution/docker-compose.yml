@@ -1,0 +1,56 @@
+version: '3.4'
+
+networks:
+    backend:
+
+services:
+    productdb:
+        container_name: Product-db
+        image: postgres
+        environment:
+        - POSTGRES_PASSWORD=Admin@246
+
+        networks:
+        - backend
+        ports:
+        - 8002:5432
+    
+    productapi:
+        container_name: product-api
+        image: ${DOCKER_REGISTRY-}productapi
+        build:
+            context: .
+            dockerfile: ProductApi/Dockerfile
+
+        networks:
+        - backend 
+    orderdb:
+        container_name: Order-db
+        image: postgres
+        environment:
+        - POSTGRES_PASSWORD=Admin@246
+
+        networks:
+        - backend
+        ports:
+        - 8003:5432
+    orderapi:
+        image: ${DOCKER_REGISTRY-}orderapi
+        container_name: order-api
+        build:
+            context: .
+            dockerfile: OrderApi/Dockerfile
+        networks:
+        - backend 
+        
+
+    ocelotgateway:
+        container_name: ocelot-gateway
+        image: ${DOCKER_REGISTRY-}ocelotgateway
+        build:
+            context: .
+            dockerfile: OcelotGateway/Dockerfile
+        ports:
+        - 8001:80
+        networks:
+        - backend
