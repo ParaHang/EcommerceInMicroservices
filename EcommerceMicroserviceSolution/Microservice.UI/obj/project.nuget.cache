@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "obkYr9z21F4crRx38uZgYjKHU6POCU4GOZBvIuA9chs9lOHdKuths+s5S7lFEg18ZRd1SnCFKiurp/1bdOLpRw==",
+  "dgSpecHash": "DuouRp+eDJ2GihP0SXyCETm0529ekxISjTJ2HsOb1VqD62DMo3lRg36b4Vm2bvgV33eRr3lPY2PzrcoT/tSAGw==",
   "success": true,
-  "projectFilePath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Microservice.UI\\Microservice.UI.csproj",
+  "projectFilePath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Microservice.UI\\Microservice.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\parah\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.20\\microsoft.aspnetcore.authorization.6.0.20.nupkg.sha512",
     "C:\\Users\\parah\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.20\\microsoft.aspnetcore.components.6.0.20.nupkg.sha512",

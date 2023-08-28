@@ -866,11 +866,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Api\\Order.Api.csproj",
+      "projectUniqueName": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Api\\Order.Api.csproj",
       "projectName": "Order.Api",
-      "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Api\\Order.Api.csproj",
+      "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Api\\Order.Api.csproj",
       "packagesPath": "C:\\Users\\parah\\.nuget\\packages\\",
-      "outputPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Api\\obj\\",
+      "outputPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -890,8 +890,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Infrastructure\\Order.Infrastructure.csproj": {
-              "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Infrastructure\\Order.Infrastructure.csproj"
+            "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Infrastructure\\Order.Infrastructure.csproj": {
+              "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Infrastructure\\Order.Infrastructure.csproj"
             }
           }
         }

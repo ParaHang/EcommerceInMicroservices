@@ -1,0 +1,92 @@
+name: dockercompose386875013682739980
+services:
+  ocelotgateway:
+    build:
+      context: D:\New folder\EcommerceInMicroservices\EcommerceMicroserviceSolution
+      dockerfile: OcelotGateway/Dockerfile
+    container_name: ocelot-gateway
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: ocelotgateway
+    networks:
+      backend: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    - mode: ingress
+      target: 80
+      published: "8001"
+      protocol: tcp
+    - mode: ingress
+      target: 443
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\parah\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\parah\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+  order.api:
+    build:
+      context: D:\New folder\EcommerceInMicroservices\EcommerceMicroserviceSolution
+      dockerfile: Order.Api/Dockerfile
+    container_name: order-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: orderapi
+    networks:
+      backend: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+  orderdb:
+    container_name: Order-db
+    environment:
+      POSTGRES_PASSWORD: Admin@246
+    image: postgres
+    networks:
+      backend: null
+    ports:
+    - mode: ingress
+      target: 5432
+      published: "8003"
+      protocol: tcp
+  product.api:
+    build:
+      context: D:\New folder\EcommerceInMicroservices\EcommerceMicroserviceSolution
+      dockerfile: Product.Api/Dockerfile
+    container_name: product-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: productapi
+    networks:
+      backend: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+  productdb:
+    container_name: Product-db
+    environment:
+      POSTGRES_PASSWORD: Admin@246
+    image: postgres
+    networks:
+      backend: null
+    ports:
+    - mode: ingress
+      target: 5432
+      published: "8002"
+      protocol: tcp
+networks:
+  backend:
+    name: dockercompose386875013682739980_backend

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p8AQJdJwbYmvqrhFbvmCf2XxpGnv9xmmMBVIzq1E2+VSzp8FzRv9LIf4gOGyX1Ec5jLzo6CIqD5bISH9AtCq8g==",
+  "dgSpecHash": "/AmvFx/cUTbhBhynJ0yfHCsE5kboMsTHOdTN6ZCNX9lAUtORkqBbQBmG5JY7hqG6w1yntFMbO6BxeHYSB4oHWw==",
   "success": true,
-  "projectFilePath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\Product.Infrastructure.csproj",
+  "projectFilePath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\Product.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\parah\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\parah\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",

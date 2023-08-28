@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Domain\\Order.Domain.csproj",
+      "projectUniqueName": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Domain\\Order.Domain.csproj",
       "projectName": "Order.Domain",
-      "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Domain\\Order.Domain.csproj",
+      "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Domain\\Order.Domain.csproj",
       "packagesPath": "C:\\Users\\parah\\.nuget\\packages\\",
-      "outputPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Domain\\obj\\",
+      "outputPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

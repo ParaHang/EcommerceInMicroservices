@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Microservice.UI
 build_property.RootNamespace = Microservice.UI
-build_property.ProjectDir = D:\Microservices\EcommerceMicroserviceSolution\Microservice.UI\
+build_property.ProjectDir = D:\New folder\EcommerceInMicroservices\EcommerceMicroserviceSolution\Microservice.UI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Microservices\EcommerceMicroserviceSolution\Microservice.UI
+build_property.MSBuildProjectDirectory = D:\New folder\EcommerceInMicroservices\EcommerceMicroserviceSolution\Microservice.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Microservices/EcommerceMicroserviceSolution/Microservice.UI/App.razor]
+[D:/New folder/EcommerceInMicroservices/EcommerceMicroserviceSolution/Microservice.UI/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Microservices/EcommerceMicroserviceSolution/Microservice.UI/Pages/Counter.razor]
+[D:/New folder/EcommerceInMicroservices/EcommerceMicroserviceSolution/Microservice.UI/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Microservices/EcommerceMicroserviceSolution/Microservice.UI/Pages/FetchData.razor]
+[D:/New folder/EcommerceInMicroservices/EcommerceMicroserviceSolution/Microservice.UI/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Microservices/EcommerceMicroserviceSolution/Microservice.UI/Pages/Index.razor]
+[D:/New folder/EcommerceInMicroservices/EcommerceMicroserviceSolution/Microservice.UI/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Microservices/EcommerceMicroserviceSolution/Microservice.UI/Pages/Order.razor]
+[D:/New folder/EcommerceInMicroservices/EcommerceMicroserviceSolution/Microservice.UI/Pages/Order.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Microservices/EcommerceMicroserviceSolution/Microservice.UI/Shared/SurveyPrompt.razor]
+[D:/New folder/EcommerceInMicroservices/EcommerceMicroserviceSolution/Microservice.UI/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Microservices/EcommerceMicroserviceSolution/Microservice.UI/_Imports.razor]
+[D:/New folder/EcommerceInMicroservices/EcommerceMicroserviceSolution/Microservice.UI/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Microservices/EcommerceMicroserviceSolution/Microservice.UI/Shared/MainLayout.razor]
+[D:/New folder/EcommerceInMicroservices/EcommerceMicroserviceSolution/Microservice.UI/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-18yss07sx7
 
-[D:/Microservices/EcommerceMicroserviceSolution/Microservice.UI/Shared/NavMenu.razor]
+[D:/New folder/EcommerceInMicroservices/EcommerceMicroserviceSolution/Microservice.UI/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ruejl3ddrt

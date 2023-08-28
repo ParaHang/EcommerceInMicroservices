@@ -2396,11 +2396,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Microservices\\EcommerceMicroserviceSolution\\Microservice.UI\\Microservice.UI.csproj",
+      "projectUniqueName": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Microservice.UI\\Microservice.UI.csproj",
       "projectName": "Microservice.UI",
-      "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Microservice.UI\\Microservice.UI.csproj",
+      "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Microservice.UI\\Microservice.UI.csproj",
       "packagesPath": "C:\\Users\\parah\\.nuget\\packages\\",
-      "outputPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Microservice.UI\\obj\\",
+      "outputPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Microservice.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2420,23 +2420,23 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Application\\Order.Application.csproj": {
-              "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Application\\Order.Application.csproj"
+            "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Application\\Order.Application.csproj": {
+              "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Application\\Order.Application.csproj"
             },
-            "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Domain\\Order.Domain.csproj": {
-              "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Domain\\Order.Domain.csproj"
+            "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Domain\\Order.Domain.csproj": {
+              "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Domain\\Order.Domain.csproj"
             },
-            "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Infrastructure\\Order.Infrastructure.csproj": {
-              "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Order.Infrastructure\\Order.Infrastructure.csproj"
+            "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Infrastructure\\Order.Infrastructure.csproj": {
+              "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Order.Infrastructure\\Order.Infrastructure.csproj"
             },
-            "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Application\\Product.Application.csproj": {
-              "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Application\\Product.Application.csproj"
+            "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Application\\Product.Application.csproj": {
+              "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Application\\Product.Application.csproj"
             },
-            "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Domain\\Product.Domain.csproj": {
-              "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Domain\\Product.Domain.csproj"
+            "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Domain\\Product.Domain.csproj": {
+              "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Domain\\Product.Domain.csproj"
             },
-            "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\Product.Infrastructure.csproj": {
-              "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\Product.Infrastructure.csproj"
+            "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\Product.Infrastructure.csproj": {
+              "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\Product.Infrastructure.csproj"
             }
           }
         }

@@ -13,8 +13,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - D:\Microservices\EcommerceMicroserviceSolution\OcelotGateway:/app
-      - D:\Microservices\EcommerceMicroserviceSolution:/src
+      - D:\New folder\EcommerceInMicroservices\EcommerceMicroserviceSolution\OcelotGateway:/app
+      - D:\New folder\EcommerceInMicroservices\EcommerceMicroserviceSolution:/src
       - C:\Users\parah\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\parah\.nuget\packages\:/.nuget/packages:ro
       - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/.nuget/fallbackpackages:ro
@@ -45,8 +45,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - D:\Microservices\EcommerceMicroserviceSolution\Order.Api:/app
-      - D:\Microservices\EcommerceMicroserviceSolution:/src
+      - D:\New folder\EcommerceInMicroservices\EcommerceMicroserviceSolution\Order.Api:/app
+      - D:\New folder\EcommerceInMicroservices\EcommerceMicroserviceSolution:/src
       - C:\Users\parah\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\parah\.nuget\packages\:/.nuget/packages:ro
       - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/.nuget/fallbackpackages:ro
@@ -78,8 +78,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - D:\Microservices\EcommerceMicroserviceSolution\Product.Api:/app
-      - D:\Microservices\EcommerceMicroserviceSolution:/src
+      - D:\New folder\EcommerceInMicroservices\EcommerceMicroserviceSolution\Product.Api:/app
+      - D:\New folder\EcommerceInMicroservices\EcommerceMicroserviceSolution:/src
       - C:\Users\parah\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\parah\.nuget\packages\:/.nuget/packages:ro
       - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/.nuget/fallbackpackages:ro

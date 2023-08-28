@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microservices\\EcommerceMicroserviceSolution\\OcelotGateway\\OcelotGateway.csproj": {}
+    "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\OcelotGateway\\OcelotGateway.csproj": {}
   },
   "projects": {
-    "D:\\Microservices\\EcommerceMicroserviceSolution\\OcelotGateway\\OcelotGateway.csproj": {
+    "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\OcelotGateway\\OcelotGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microservices\\EcommerceMicroserviceSolution\\OcelotGateway\\OcelotGateway.csproj",
+        "projectUniqueName": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\OcelotGateway\\OcelotGateway.csproj",
         "projectName": "OcelotGateway",
-        "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\OcelotGateway\\OcelotGateway.csproj",
+        "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\OcelotGateway\\OcelotGateway.csproj",
         "packagesPath": "C:\\Users\\parah\\.nuget\\packages\\",
-        "outputPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\OcelotGateway\\obj\\",
+        "outputPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\OcelotGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1118,11 +1118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\Product.Infrastructure.csproj",
+      "projectUniqueName": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\Product.Infrastructure.csproj",
       "projectName": "Product.Infrastructure",
-      "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\Product.Infrastructure.csproj",
+      "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\Product.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\parah\\.nuget\\packages\\",
-      "outputPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\obj\\",
+      "outputPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1142,8 +1142,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Application\\Product.Application.csproj": {
-              "projectPath": "D:\\Microservices\\EcommerceMicroserviceSolution\\Product.Application\\Product.Application.csproj"
+            "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Application\\Product.Application.csproj": {
+              "projectPath": "D:\\New folder\\EcommerceInMicroservices\\EcommerceMicroserviceSolution\\Product.Application\\Product.Application.csproj"
             }
           }
         }
